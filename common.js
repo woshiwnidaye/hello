@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://www.mydmocz.com";
+		var url=" ";
 		window.location=url;
 	}
 }
